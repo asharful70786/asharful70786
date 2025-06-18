@@ -68,8 +68,8 @@
 ### 🚀 Featured Projects:
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [StorageApp](https://github.com/asharful70786/StorageApp) | Full-stack cloud storage solution with Rbac, file handling, and MongoDB integration. | Node.js, React, Multer, MongoDB |
-| [Face-Laxious](https://github.com/asharful70786/Face-Laxious) | fece match with face.api  | Node.js, OpenCV, Express |
+| [StorageApp](https://github.com/asharful70786/StorageApp) |  A full-featured, secure **cloud storage web app** like Google Drive. Users can **upload, organize, and access personal files/folders**, with features like **RBAC**,  **max-device login restriction**, and **one-tap Google login**. Built for smooth and scalable file management. |  Redis, Multer, bcrypt, Google/GitHub OAuth, nodeMailer |
+| [Face-Laxious](https://github.com/asharful70786/Face-Laxious-) |  An AI-powered face recognition app where users **scan their face via webcam**, and **face-api.js** retrieves all matching images uploaded by the admin. Ideal for identity-based image access and smart retrieval systems. | Node.js,twilio ,  face-api.js , |
 
 
 ---
