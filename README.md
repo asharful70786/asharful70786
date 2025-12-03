@@ -71,15 +71,34 @@
 
 
 ---
+### 💼 Core Expertise
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharful70786&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=asharful70786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asharful70786&theme=tokyonight&hide_border=true" />
-</div>
+```yaml
+Backend & APIs:       Node.js, Express.js, RESTful architecture
+Cloud Infrastructure: AWS EC2, S3, CloudFront, Route 53
+DevOps & CI/CD:       Webhook automation, Bash scripting, PM2, Nginx
+Databases:            MongoDB, Redis, MySQL, PostgreSQL
+Security:             RBAC, JWT, OAuth, Rate limiting, Token management
+AI Integration:       GenAI workflows, LangChain, face-api.js, Whisper ASR,
+                      Llama-based LLMs, on-device inference (ONNX),
+                      vector search & embeddings (FAISS/Chroma)
+Frontend:             React, Tailwind CSS, Responsive design
+System Design:        Scalable architecture, Caching strategies, Load balancing
+
+```
 
 ---
+
+### 📊 GitHub Snapshot
+<p align="center">
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asharful70786&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=asharful70786&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+
+
 
 ### 🌐 Connect With Me:
 <p align="center">
@@ -99,12 +118,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asharful70786&theme=gruvbox&margin-w=15&no-bg=true&no-frame=true&row=1&column=7" />
-</p>
 
----
 
 ⭐️ *If you like what I do, consider giving me a star on any repo!*
 
