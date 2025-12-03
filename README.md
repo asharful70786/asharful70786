@@ -9,11 +9,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=asharful70786&label=Profile%20views&color=0e75b6&style=flat" alt="asharful70786" style="width: 30%; height: 30px;" />
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
@@ -32,12 +27,8 @@
   <a href="https://redis.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" width="50" height="50"/>
   </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"/>
-  </a>&nbsp;
+
+  
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/>
   </a>&nbsp;
@@ -56,13 +47,20 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="50" height="50"/>
   </a>&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="50" height="50"/>
-  </a>
+<a href="https://nginx.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" />
+  </a>&nbsp;
+ 
 </p>
 
 
+
+
 ---
+
+
+
+
 ### 🚀 Featured Projects:
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -91,7 +89,7 @@ System Design:        Scalable architecture, Caching strategies, Load balancing
 
 ### 📊 GitHub Snapshot
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asharful70786&show_icons=true&theme=tokyonight&hide_border=true" />
+
   <img height="160" src="https://streak-stats.demolab.com/?user=asharful70786&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -120,5 +118,5 @@ System Design:        Scalable architecture, Caching strategies, Load balancing
 
 
 
-⭐️ *If you like what I do, consider giving me a star on any repo!*
+⭐️ *Do you have the courage to ship that product?*
 
